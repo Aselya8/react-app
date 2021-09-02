@@ -12,6 +12,7 @@ class CampsiteInfo extends Component {
                      <CardText>{campsite.description}</CardText>
                   </CardBody>
             </Card>
+            
          </div>
       );
 }
