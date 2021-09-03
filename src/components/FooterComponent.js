@@ -13,7 +13,7 @@ function Footer(props) {
                             <li><a href="#">About</a></li>
                             <li><a href="#">Contact</a></li>
                         </ul>
-                    </div>
+                    </div> 
                     <div className="col-6 col-sm-3 text-center">
                         <h5>Social</h5>
                         <a className="btn btn-social-icon btn-instagram" href="http://instagram.com/"><i className="fa fa-instagram" /></a>{' '}
